@@ -1,3 +1,0 @@
-# modocham
-primer repositorio
-
