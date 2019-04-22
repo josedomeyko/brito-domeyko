@@ -2,40 +2,40 @@
 var trabajos = [
 {
     figure: "media/foto-01.jpg",
-    title: "Lorem ipsum 01",
-    about: "Me gusta el chocolate",
+    title: "Beauty de Comida - Sesión fotográfica",
+    about: "El encargo de esta fotografía corresponde al desafío de fotografiar algún plato de comida en juego con la modelo.",
 }, {
     figure: "media/foto-02.jpg",
     title: "Refugio para Pudúes",
-    about: "Proyecto Industrial",
+    about: "Proyecto Industrial. Trabajo en colaboración con el Parque Metropolitano para crear en conjunto un proyecto para el bienestar animal",
 }, {
     figure: "media/foto-03.jpg",
-    title: "Lorem ipsum 03",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "Luminaria en base a Jabón",
+    about: "La idea surge a partir de la búsqueda por reinventar el uso y la forma de un producto tan común como lo es el jabón líquido y a partir de esos hallazgos poder realizar una luminaria.",
 }, {
     figure: "media/foto-04.jpg",
     title: "Maez",
-    about: "Proyecto Gráfico",
+    about: "Proyecto Gráfico. Diseño de identidad gráfica para emprendedores.",
 }, {
     figure: "media/foto-05.jpg",
-    title: "Lorem ipsum 05",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "Revista Mujer - Sesión fotográfica",
+    about: "Este encargo buscaba generar una editorial en donde se destacaran los rasgos femeninos de cada una de las modelos mediante el uso de un maquillaje sútil pero contrastante combinado con el uso de un pañuelo distintivo para cada una de ellas.",
 }, {
     figure: "media/foto-06.jpg",
-    title: "Lorem ipsum 06",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "Hacking Plástico",
+    about: "Juguete interactivo para niños de 0 a 99 años diseñado para hacer mandalas en el piso, ya sea con las tizas en su interior o dibujado con su mano en la tierra.",
 }, {
     figure: "media/foto-07.jpg",
     title: "Cuplight",
-    about: "Proyecto Industrial",
+    about: "Proyecto Industrial. Luminaria echa a partir de vasos de plástico",
 }, {
     figure: "media/foto-08.jpg",
-    title: "Lorem ipsum 08",
-    about: "Nulla pretium non sapien eget fermentum",
+    title: "Logotipo Empresa - Nedcro",
+    about: "Creación de logo para la empresa Nedcro. Una empresa Chileno-Croata dedicada a la exportación de frutos secos nacionales a países europeos.",
 }, {
     figure: "media/foto-09.jpg",
     title: "Cremas Maggi",
-    about: "Proyecto de definicion de producto, en base a la gráfica y composición",
+    about: "Trabajo en conjunto con la marca 'Magii' para definir un producto, en base a la gráfica y composición",
 }
 ]
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE

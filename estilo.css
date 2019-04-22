@@ -23,7 +23,7 @@ h1, h2, h3, h4{
 h1{
 	font-size:5rem;
 	letter-spacing:0.1em;
-	color:rgba(255,255,255,0.9);
+	color:rgba(93,193,195,0.9);
 	text-align:center;
 	font-weight: bold;
 }
@@ -31,7 +31,7 @@ h1{
 h2{
 	font-size:2rem;
 	letter-spacing:0.1em;
-	color:rgba(255,255,255,0.9);
+	color:rgba(93,193,195,0.9);
 	text-align:center;
 	font-weight: lighter;
 }
@@ -39,18 +39,18 @@ h2{
 h3{
 	font-size:1.5rem;
 	letter-spacing:0.1em;
-	color:rgba(0,0,0,0.9);
+	color:rgba(93,193,195,0.9);
 	text-align:center;
 	padding:1rem 0;
 }
 
 a{
-	color:rgba(155,0,0,1);
+	color:rgba(93,193,195,0.9);
 	text-decoration:none;
 }
 
 a:hover{
-	color:rgba(255,0,0,1);
+	color:rgba(93,193,195,0.9);
 	text-decoration:underline;
 }
 
