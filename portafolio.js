@@ -9,7 +9,7 @@ var trabajos = [
     title: "Refugio para Pudúes",
     about: "Proyecto Industrial. Trabajo en colaboración con el Parque Metropolitano para crear en conjunto un proyecto para el bienestar animal",
 }, {
-    figure: "media/foto-03.jpg",
+    figure: "media/foto-03.JPG",
     title: "Luminaria en base a Jabón",
     about: "La idea surge a partir de la búsqueda por reinventar el uso y la forma de un producto tan común como lo es el jabón líquido y a partir de esos hallazgos poder realizar una luminaria.",
 }, {
@@ -33,7 +33,7 @@ var trabajos = [
     title: "Logotipo Empresa - Nedcro",
     about: "Creación de logo para la empresa Nedcro. Una empresa Chileno-Croata dedicada a la exportación de frutos secos nacionales a países europeos.",
 }, {
-    figure: "media/foto-09.jpg",
+    figure: "media/foto-09.JPG",
     title: "Cremas Maggi",
     about: "Trabajo en conjunto con la marca 'Magii' para definir un producto, en base a la gráfica y composición",
 }
